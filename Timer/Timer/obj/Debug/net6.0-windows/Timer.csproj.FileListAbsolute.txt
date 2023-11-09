@@ -1,0 +1,17 @@
+D:\Giang\Winform C#\Timer\Timer\bin\Debug\net6.0-windows\Timer.exe
+D:\Giang\Winform C#\Timer\Timer\bin\Debug\net6.0-windows\Timer.deps.json
+D:\Giang\Winform C#\Timer\Timer\bin\Debug\net6.0-windows\Timer.runtimeconfig.json
+D:\Giang\Winform C#\Timer\Timer\bin\Debug\net6.0-windows\Timer.dll
+D:\Giang\Winform C#\Timer\Timer\bin\Debug\net6.0-windows\Timer.pdb
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.csproj.AssemblyReference.cache
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.Form1.resources
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.csproj.GenerateResource.cache
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.AssemblyInfoInputs.cache
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.AssemblyInfo.cs
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.csproj.CoreCompileInputs.cache
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.dll
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\refint\Timer.dll
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.pdb
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\Timer.genruntimeconfig.cache
+D:\Giang\Winform C#\Timer\Timer\obj\Debug\net6.0-windows\ref\Timer.dll

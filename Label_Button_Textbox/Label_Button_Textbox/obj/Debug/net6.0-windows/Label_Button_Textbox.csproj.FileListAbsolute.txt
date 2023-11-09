@@ -1,0 +1,34 @@
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.exe
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.deps.json
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.runtimeconfig.json
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.dll
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.pdb
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.csproj.AssemblyReference.cache
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.Form1.resources
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.csproj.GenerateResource.cache
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.AssemblyInfoInputs.cache
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.AssemblyInfo.cs
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.csproj.CoreCompileInputs.cache
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.dll
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\refint\Label_Button_Textbox.dll
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.pdb
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.genruntimeconfig.cache
+D:\Giang\HK3\Lập trình trực quan\TH Lí thuyết\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\ref\Label_Button_Textbox.dll
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.exe
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.deps.json
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.runtimeconfig.json
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.dll
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\bin\Debug\net6.0-windows\Label_Button_Textbox.pdb
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.csproj.AssemblyReference.cache
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.Form1.resources
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.csproj.GenerateResource.cache
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.AssemblyInfoInputs.cache
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.AssemblyInfo.cs
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.csproj.CoreCompileInputs.cache
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.dll
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\refint\Label_Button_Textbox.dll
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.pdb
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\Label_Button_Textbox.genruntimeconfig.cache
+D:\Giang\Winform C#\Label_Button_Textbox\Label_Button_Textbox\obj\Debug\net6.0-windows\ref\Label_Button_Textbox.dll

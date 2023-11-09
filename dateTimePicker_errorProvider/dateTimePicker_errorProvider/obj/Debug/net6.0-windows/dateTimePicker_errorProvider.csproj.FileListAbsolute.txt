@@ -1,0 +1,17 @@
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.csproj.AssemblyReference.cache
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.Form1.resources
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.csproj.GenerateResource.cache
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.AssemblyInfoInputs.cache
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.AssemblyInfo.cs
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.csproj.CoreCompileInputs.cache
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\bin\Debug\net6.0-windows\dateTimePicker_errorProvider.exe
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\bin\Debug\net6.0-windows\dateTimePicker_errorProvider.deps.json
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\bin\Debug\net6.0-windows\dateTimePicker_errorProvider.runtimeconfig.json
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\bin\Debug\net6.0-windows\dateTimePicker_errorProvider.dll
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\bin\Debug\net6.0-windows\dateTimePicker_errorProvider.pdb
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.dll
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\refint\dateTimePicker_errorProvider.dll
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.pdb
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\dateTimePicker_errorProvider.genruntimeconfig.cache
+D:\Giang\Winform C#\dateTimePicker_errorProvider\dateTimePicker_errorProvider\obj\Debug\net6.0-windows\ref\dateTimePicker_errorProvider.dll

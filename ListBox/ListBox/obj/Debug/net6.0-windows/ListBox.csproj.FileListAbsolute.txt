@@ -1,0 +1,17 @@
+D:\Giang\Winform C#\ListBox\ListBox\bin\Debug\net6.0-windows\ListBox.exe
+D:\Giang\Winform C#\ListBox\ListBox\bin\Debug\net6.0-windows\ListBox.deps.json
+D:\Giang\Winform C#\ListBox\ListBox\bin\Debug\net6.0-windows\ListBox.runtimeconfig.json
+D:\Giang\Winform C#\ListBox\ListBox\bin\Debug\net6.0-windows\ListBox.dll
+D:\Giang\Winform C#\ListBox\ListBox\bin\Debug\net6.0-windows\ListBox.pdb
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.csproj.AssemblyReference.cache
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.Form1.resources
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.csproj.GenerateResource.cache
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.AssemblyInfoInputs.cache
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.AssemblyInfo.cs
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.csproj.CoreCompileInputs.cache
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.dll
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\refint\ListBox.dll
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.pdb
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ListBox.genruntimeconfig.cache
+D:\Giang\Winform C#\ListBox\ListBox\obj\Debug\net6.0-windows\ref\ListBox.dll

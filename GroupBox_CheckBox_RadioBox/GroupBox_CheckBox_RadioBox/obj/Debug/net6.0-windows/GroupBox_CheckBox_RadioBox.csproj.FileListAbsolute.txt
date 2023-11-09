@@ -1,0 +1,17 @@
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\bin\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.exe
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\bin\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.deps.json
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\bin\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.runtimeconfig.json
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\bin\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.dll
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\bin\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.pdb
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.csproj.AssemblyReference.cache
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.Form1.resources
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.csproj.GenerateResource.cache
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.AssemblyInfoInputs.cache
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.AssemblyInfo.cs
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.csproj.CoreCompileInputs.cache
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.dll
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\refint\GroupBox_CheckBox_RadioBox.dll
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.pdb
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\GroupBox_CheckBox_RadioBox.genruntimeconfig.cache
+D:\Giang\Winform C#\GroupBox_CheckBox_RadioBox\GroupBox_CheckBox_RadioBox\obj\Debug\net6.0-windows\ref\GroupBox_CheckBox_RadioBox.dll
