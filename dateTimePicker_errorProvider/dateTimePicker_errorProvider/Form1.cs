@@ -9,7 +9,7 @@
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+                //abcbcbaba
         }
 
         private void btnDK_Click(object sender, EventArgs e)
